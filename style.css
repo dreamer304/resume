@@ -1,0 +1,330 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	/* font: inherit; */
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+  
+	line-height: 1;
+  font-family: 'League Spartan', sans-serif;
+  font-family: 'Open Sans', sans-serif; 
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+
+
+.rectangle{
+  display: block;
+  position: relative;
+  width: 7.4cm; 
+  height: 29.7cm; 
+  background-color:#315160; ;
+}
+
+.avatar{
+  position: absolute;
+  top: 30px;
+  left: 25px;
+  width: 80%;
+  background-color: transparent;
+
+}
+.hr{
+  position: absolute;
+  top: 280px;
+  left: 20px;
+  right: 20px;
+  width: 6cm;
+  height: 1px;
+  background-color:rgba(250, 235, 215, 0.404);
+}
+
+.hr-2{
+  position: absolute;
+  top: 400px;
+  left: 20px;
+  right: 20px;
+  width: 6cm;
+  height: 1px;
+  background-color:rgba(250, 235, 215, 0.404);
+}
+
+.contact-info{
+  position: absolute;
+  top: 300px;
+  left: 20px;
+  color: #8EB2C4;
+  font-size: large;
+  letter-spacing: 1px;
+}
+.information{
+  color: antiquewhite;
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.Languages{
+  position: absolute;
+  top: 420px;
+  left: 20px;
+  color: #8EB2C4;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+.progress {
+  background-color: #C7BCA1; 
+  border-radius: 20px;
+  height: 10px;
+  width: 150%;
+  
+}
+
+.skill{
+  color: aliceblue;
+  font-size: small;
+  padding-bottom: 10px;
+}
+
+.progress-1 {
+  width: 150%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-2 {
+  width: 150%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-3 {
+  width: 150%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.hr-3{
+  position: absolute;
+  top: 630px;
+  left: 20px;
+  right: 20px;
+  width: 6cm;
+  height: 1px;
+  background-color:rgba(250, 235, 215, 0.404);
+}
+
+.Skills{
+  position: absolute;
+  top: 650px;
+  left: 20px;
+  color: #8EB2C4;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+.progress-4 {
+  width: 125%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-5 {
+  width: 125%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-6 {
+  width: 125%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-7 {
+  width: 125%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-8 {
+  width: 125%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+.progress-9 {
+  width: 125%; 
+  background-color: white;
+  border-radius: 20px;
+  height: 10px;
+  margin-bottom: 25px;
+}
+
+
+.triangle{
+  position: absolute;
+  top: 0px;
+  left: px;
+  left: 6.88cm;
+  
+}
+
+.container2{
+  position: absolute;
+  top: 30px;
+  left: 350px;
+  text-align: left;
+}
+.name{
+  /* position: absolute; */
+  font-size: 50px;
+  color: #372A24;
+}
+.sysadmin{
+  /* position: absolute; */
+  left: 0px;
+  font-size: 20px;
+  letter-spacing: 8px;
+  color: #372A24;
+
+}
+.prof_sum{
+  color: #4F7486;
+}
+
+.hr-4{
+  position: absolute;
+  top: 250px;
+  left: 3px;
+  right: 20px;
+  width: 10.5cm;
+  height: 1px;
+  background-color:#4F7486;
+
+}
+.about{
+  padding-top: 10px;
+  font-size: 15px;
+  color: #372A24;
+  line-height: 18px;
+}
+
+.Experience{
+  /* position: absolute; */
+  /* top: 270px; */
+  color: #8EB2C4;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+.Job_Name{
+  /* font-size: small; */
+  font-size: 13px;
+  line-height: 1.5;
+  padding-top: 3px;
+  color: #372A24;
+
+}
+
+.date_1{
+  
+  text-align: right;
+  text-align: end;
+  font-size: 13px;
+  line-height: 1.5;
+  
+  color: #372A24;
+}
+
+.Job {
+  position: relative;
+}
+
+.date_span {
+  position: absolute;
+  top: 3px;
+  right: 0;
+}
+
+.work_list{
+  padding-left: 20px;
+  font-size: small;
+  line-height: 1.5;
+}
+
+
+.education{
+  list-style: none;
+  font-size: small;
+}
+
+.hr-5{
+  position: absolute;
+  top: 912px;
+  left: 3px;
+  right: 20px;
+  width: 10.5cm;
+  height: 1px;
+  background-color:#4F7486;
+}
+
+a[href^="mailto:"] {
+  color:white;
+  text-decoration: none;
+}
+
+a[href^="mailto:"]:hover {
+  color: #00b7ff;
+  text-decoration: underline;
+}
+
+
+.phone-link {
+  color: white;
+  text-decoration: none;
+  }
+  
+  .phone-link:hover {
+  color: #00b7ff;
+  }
+
