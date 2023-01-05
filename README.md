@@ -8,8 +8,6 @@ This is my resume, detailing my work experience and education.
 
 - [Work Experience](#work-experience)
 - [Education](#education)
-- [Skills](#skills)
-- [Interests](#interests)
 
 ## Work Experience
 
